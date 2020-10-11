@@ -1,1 +1,7 @@
-# The SUDOKU GAME!
+# The SUDOKU GAME! 🔢
+
+- Sudoku
+- Sudoku Solver
+
+- Python
+- Pygame
