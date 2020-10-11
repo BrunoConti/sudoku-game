@@ -1,7 +1,7 @@
 # 🔢 The SUDOKU GAME! 🔢
 
 ## Content
-- Sudoku
+- Sudoku GUI game
 - Sudoku Solver
 
 ## Build with...
